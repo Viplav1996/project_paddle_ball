@@ -15,3 +15,8 @@ Steps so far in creating game:
 9. Moving the ball
 10. REFACTORING
 11. Collision Detection(In process)
+12.
+13.
+14.
+15.
+
